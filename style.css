@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+}
+header{
+    height:500px;
+    background-image:url(/image/sascha-bosshard-I6xyKhsCK7Q-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #707070;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 300px;
+    margin: 10px;
+}
+section{
+    height: 300px;
+}
+.service{
+    text-align: center;
+    font-size: 16px;
+}
+.propos{
+    margin: 25px;
+    margin-top: -100px;
+    margin-bottom: 300px;
+    text-align: justify;
+    line-height: 25px;
+    font-size: 16px;
+}
+.team{
+    text-align: center;
+}
+.tea{
+    width: 200px;
+}
+.voy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+vo{
+    width: 300px;
+    margin: 10px;
+}
+.contact{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    margin-top: -150px;
+    height: 150px;
+    background-color:#0e0e0e;
+    color: #707070;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
